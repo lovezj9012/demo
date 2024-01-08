@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "width_label",
+      "value": "Image Width："
+    },
+    {
+      "name": "button_text",
+      "value": "Zoom Out"
+    },
+    {
+      "name": "button_in",
+      "value": "Zoom In"
+    }
+  ]
+}
