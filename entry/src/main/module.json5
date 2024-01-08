@@ -8,6 +8,7 @@
       "phone",
       "tablet"
     ],
+    //网络权限配置
     "requestPermissions": [
       {
         "name": "ohos.permission.INTERNET"

@@ -18,6 +18,7 @@ class Tasks{
     .fontColor('#B1B2B1')
 }
 
+import { Header } from '../components/Header'
 @Entry
 @Component
 struct Task{
@@ -33,6 +34,7 @@ struct Task{
 
   build(){
     Column(){
+      Header({title:'任务列表'})
       Row(){
         Text('任务进度：')
           .fontSize(30)
