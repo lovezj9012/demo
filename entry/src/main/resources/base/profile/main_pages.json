@@ -3,6 +3,8 @@
     "pages/Index",
     "pages/ImagePage",
     "pages/TaskPage",
-    "pages/ItemPage"
+    "pages/ItemPage",
+    "pages/AnimationPage",
+    "pages/AnimationPage2"
   ]
 }

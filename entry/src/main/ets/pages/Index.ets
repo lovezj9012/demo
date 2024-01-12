@@ -43,9 +43,11 @@ struct Index {
   @State message: string = '页面列表'
 
   private routers:RouterInfo []=[
-    new RouterInfo('pages/ImagePage','图片展示'),
-  new RouterInfo('pages/TaskPage','任务列表'),
-  new RouterInfo('pages/ItemPage','商品列表')
+    new RouterInfo('pages/ImagePage', '图片展示'),
+    new RouterInfo('pages/TaskPage', '任务列表'),
+    new RouterInfo('pages/ItemPage', '商品列表'),
+    new RouterInfo('pages/AnimationPage','小鱼动画'),
+    new RouterInfo('pages/AnimationPage2','摇杆小鱼动画')
 
   ];
 
