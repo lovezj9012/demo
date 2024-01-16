@@ -9,6 +9,7 @@
     "pages/LifeCirclePage",
     "pages/PageLifePage",
     "pages/PageLifePage2",
-    "pages/DocumentListPage"
+    "pages/DocumentListPage",
+    "pages/DocumentPage"
   ]
 }

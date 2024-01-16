@@ -10,7 +10,7 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "l我的应用"
     },
     {
       "name": "width_label",
@@ -23,7 +23,14 @@
     {
       "name": "button_in",
       "value": "缩小"
+    },
+    {
+      "name": "DocumentAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DocumentAbility_label",
+      "value": "label"
     }
-
   ]
 }
