@@ -47,9 +47,34 @@ struct Index {
     new RouterInfo('pages/TaskPage', '任务列表'),
     new RouterInfo('pages/ItemPage', '商品列表'),
     new RouterInfo('pages/AnimationPage','小鱼动画'),
-    new RouterInfo('pages/AnimationPage2','摇杆小鱼动画')
+    new RouterInfo('pages/AnimationPage2','摇杆小鱼动画'),
+    new RouterInfo('pages/LifeCirclePage','UIAbility生命周期'),
+    new RouterInfo('pages/PageLifePage','页面生命周期'),
+    new RouterInfo('pages/DocumentListPage','UIAbility启动模式')
 
   ];
+
+  tag: string = 'Index Page'
+
+  aboutToAppear(){
+    console.log(this.tag, 'about to appear')
+  }
+
+  onPageShow(){
+    console.log(this.tag, 'on page show')
+  }
+
+  onBackPress(){
+    console.log(this.tag, 'on back press')
+  }
+
+  onPageHide(){
+    console.log(this.tag, 'on page hide')
+  }
+
+  aboutToDisappear(){
+    console.log(this.tag, 'about to disappear')
+  }
 
   build() {
     Row() {

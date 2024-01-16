@@ -5,6 +5,10 @@
     "pages/TaskPage",
     "pages/ItemPage",
     "pages/AnimationPage",
-    "pages/AnimationPage2"
+    "pages/AnimationPage2",
+    "pages/LifeCirclePage",
+    "pages/PageLifePage",
+    "pages/PageLifePage2",
+    "pages/DocumentListPage"
   ]
 }
