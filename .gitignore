@@ -10,3 +10,4 @@
 /.clang-tidy
 **/.test
 /entry/preview
+/shopServer/node_modules
