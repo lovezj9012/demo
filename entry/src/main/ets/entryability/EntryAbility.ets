@@ -1,10 +1,16 @@
 import UIAbility from '@ohos.app.ability.UIAbility';
 import hilog from '@ohos.hilog';
 import window from '@ohos.window';
+import PreferencesUtil from '../common/utils/PreferencesUtil'
+import TaskModel from '../model/TaskModel';
 
 export default class EntryAbility extends UIAbility {
-  onCreate(want, launchParam) {
+  async onCreate(want, launchParam) {
     hilog.info(0x0000, 'testTag', '%{public}s', 'Ability onCreate');
+    //应用启动的时候加载Preference
+    await PreferencesUtil.loadPreference(this.context,'MyPreference')
+    //初始化表
+    TaskModel.initTaskDB(this.context)
   }
 
   onDestroy() {

@@ -3,6 +3,7 @@
     "pages/Index",
     "pages/ImagePage",
     "pages/TaskPage",
+    "pages/PropPage",
     "pages/ItemPage",
     "pages/AnimationPage",
     "pages/AnimationPage2",
@@ -10,6 +11,7 @@
     "pages/PageLifePage",
     "pages/PageLifePage2",
     "pages/DocumentListPage",
-    "pages/DocumentPage"
+    "pages/DocumentPage",
+    "pages/ShopPage"
   ]
 }
