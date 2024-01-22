@@ -15,7 +15,8 @@ const routers:RouterInfo []=[
   new RouterInfo('pages/PageLifePage','页面生命周期'),
   new RouterInfo('pages/DocumentListPage','UIAbility启动模式'),
   new RouterInfo('pages/ShopPage','商品查询'),
-  new RouterInfo('pages/PropPage','数据持久化')
+  new RouterInfo('pages/PropPage','数据持久化'),
+  new RouterInfo('pages/NotificationPage','通知')
 
 ];
 

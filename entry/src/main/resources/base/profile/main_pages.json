@@ -12,6 +12,7 @@
     "pages/PageLifePage2",
     "pages/DocumentListPage",
     "pages/DocumentPage",
-    "pages/ShopPage"
+    "pages/ShopPage",
+    "pages/NotificationPage"
   ]
 }
