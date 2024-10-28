@@ -1,0 +1,26 @@
+IPTVIndex https://www.iptvindex.com
+
+tvbox接口
+https://www.gitlink.org.cn/api/wxrj/wx/raw/jh.txt?ref=master
+https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ig.json
+欧歌：http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
+https://weixine.net/ysc.json
+老鼠仓 http://39.101.135.137:8686
+高天流云 https://mirror.ghproxy.com/https://raw.githubusercontent.com/sf467/Tvbox1/main/duocang.json
+
+http://47.99.102.252/dc.json
+
+书源
+一程  https://www.gitlink.org.cn/api/yi-c/yd/raw/sy.json?ref=master
+
+
+我的电视
+https://gitee.com/lizongying/my-tv/releases/
+ourTV https://github.com/andandroidor/ourtv
+MyTv https://github.com/yaoxieyoulei/mytv-android/releases
+
+音乐
+MusicFree
+https://github.com/maotoumao/MusicFree
+https://musicfreepluginshub.2020818.xyz/plugins.json
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
